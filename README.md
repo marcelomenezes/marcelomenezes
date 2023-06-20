@@ -8,7 +8,7 @@
 
 Último projeto:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelomenezes=github-readme-stats)](https://github.com/anuraghazra/TikTokEBAC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelomenezes=github-readme-stats)](https://github.com/marcelomenezes/TikTokEBAC)
 
 Email de contato - marcelohfms@gmail.com<br/>
 <!--
