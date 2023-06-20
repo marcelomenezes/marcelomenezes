@@ -1,5 +1,10 @@
-### Hi there 👋
+### E aí môvei, sou Marcelo Menezes 👋
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelohfmenezes/)
+
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomenezes&show_icons=true&theme=dracula)
+
+Email de contato - marcelohfms@gmail.com<br/>
 <!--
 **marcelomenezes/marcelomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
