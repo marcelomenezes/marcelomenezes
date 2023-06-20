@@ -8,8 +8,7 @@
 
 Último projeto:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelomenezes=github-readme-stats)](https://github.com/marcelomenezes/TikTokEBAC)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelomenezes&repo=TikTokEBAC)](https://github.com/anuraghazra/github-readme-stats)
 Email de contato - marcelohfms@gmail.com<br/>
 <!--
 **marcelomenezes/marcelomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
